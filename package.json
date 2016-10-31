@@ -1,0 +1,30 @@
+{
+  "name": "textrealizer",
+  "version": "1.0.0",
+  "description": "A JavaScript bilingual text realizer for web development",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaljak/JSrealB.git"
+  },
+  "author": "Jakob Kaltenbrunner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaljak/JSrealB/issues"
+  },
+  "homepage": "https://github.com/kaljak/JSrealB#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
